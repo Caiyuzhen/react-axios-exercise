@@ -300,7 +300,7 @@ export default class App extends PureComponent {
 			url: '/get',
 			params: {
 				name: 'Martha',
-				age: 26,
+				age: 2666,
 			}
 		}).then( res => {
 			console.log(res);
